@@ -724,10 +724,6 @@
     "count": 3
   },
   {
-    "adjective": "excited",
-    "count": 3
-  },
-  {
     "adjective": "kinda",
     "count": 3
   },
@@ -741,6 +737,10 @@
   },
   {
     "adjective": "acne",
+    "count": 3
+  },
+  {
+    "adjective": "excited",
     "count": 3
   },
   {
@@ -798,5 +798,1205 @@
   {
     "adjective": "fair",
     "count": 2
+  },
+  {
+    "adjective": "overall",
+    "count": 2
+  },
+  {
+    "adjective": "total",
+    "count": 2
+  },
+  {
+    "adjective": "serious",
+    "count": 2
+  },
+  {
+    "adjective": "visible",
+    "count": 2
+  },
+  {
+    "adjective": "casual",
+    "count": 2
+  },
+  {
+    "adjective": "unprompted",
+    "count": 2
+  },
+  {
+    "adjective": "adequate",
+    "count": 2
+  },
+  {
+    "adjective": "single",
+    "count": 2
+  },
+  {
+    "adjective": "hopeful",
+    "count": 2
+  },
+  {
+    "adjective": "complete",
+    "count": 2
+  },
+  {
+    "adjective": "opposite",
+    "count": 2
+  },
+  {
+    "adjective": "salicylic",
+    "count": 2
+  },
+  {
+    "adjective": "coconut",
+    "count": 2
+  },
+  {
+    "adjective": "cleaner",
+    "count": 2
+  },
+  {
+    "adjective": "comfortable",
+    "count": 2
+  },
+  {
+    "adjective": "unnecessary",
+    "count": 2
+  },
+  {
+    "adjective": "public",
+    "count": 2
+  },
+  {
+    "adjective": "coarse",
+    "count": 2
+  },
+  {
+    "adjective": "rainy",
+    "count": 2
+  },
+  {
+    "adjective": "clicked",
+    "count": 2
+  },
+  {
+    "adjective": "green",
+    "count": 2
+  },
+  {
+    "adjective": "professional",
+    "count": 2
+  },
+  {
+    "adjective": "pro",
+    "count": 2
+  },
+  {
+    "adjective": "german",
+    "count": 2
+  },
+  {
+    "adjective": "unilver",
+    "count": 2
+  },
+  {
+    "adjective": "foreign",
+    "count": 2
+  },
+  {
+    "adjective": "transparent",
+    "count": 2
+  },
+  {
+    "adjective": "rich",
+    "count": 2
+  },
+  {
+    "adjective": "effective",
+    "count": 2
+  },
+  {
+    "adjective": "small",
+    "count": 2
+  },
+  {
+    "adjective": "lactic",
+    "count": 2
+  },
+  {
+    "adjective": "glycolic",
+    "count": 2
+  },
+  {
+    "adjective": "negligible",
+    "count": 2
+  },
+  {
+    "adjective": "selsun",
+    "count": 2
+  },
+  {
+    "adjective": "useful",
+    "count": 2
+  },
+  {
+    "adjective": "lightweight",
+    "count": 2
+  },
+  {
+    "adjective": "creamy",
+    "count": 2
+  },
+  {
+    "adjective": "welcome",
+    "count": 2
+  },
+  {
+    "adjective": "false",
+    "count": 2
+  },
+  {
+    "adjective": "difficult",
+    "count": 2
+  },
+  {
+    "adjective": "damaged",
+    "count": 2
+  },
+  {
+    "adjective": "dirty",
+    "count": 2
+  },
+  {
+    "adjective": "unpopular",
+    "count": 2
+  },
+  {
+    "adjective": "unique",
+    "count": 2
+  },
+  {
+    "adjective": "worst",
+    "count": 2
+  },
+  {
+    "adjective": "fresh",
+    "count": 2
+  },
+  {
+    "adjective": "clarifying",
+    "count": 2
+  },
+  {
+    "adjective": "perfect",
+    "count": 2
+  },
+  {
+    "adjective": "clear",
+    "count": 2
+  },
+  {
+    "adjective": "bald",
+    "count": 2
+  },
+  {
+    "adjective": "lesser",
+    "count": 2
+  },
+  {
+    "adjective": "about",
+    "count": 2
+  },
+  {
+    "adjective": "insta",
+    "count": 2
+  },
+  {
+    "adjective": "worth",
+    "count": 2
+  },
+  {
+    "adjective": "usual",
+    "count": 2
+  },
+  {
+    "adjective": "soluble",
+    "count": 2
+  },
+  {
+    "adjective": "reviver",
+    "count": 2
+  },
+  {
+    "adjective": "positive",
+    "count": 2
+  },
+  {
+    "adjective": "sad",
+    "count": 2
+  },
+  {
+    "adjective": "odd",
+    "count": 2
+  },
+  {
+    "adjective": "coloured",
+    "count": 2
+  },
+  {
+    "adjective": "red",
+    "count": 2
+  },
+  {
+    "adjective": "combo",
+    "count": 2
+  },
+  {
+    "adjective": "past",
+    "count": 2
+  },
+  {
+    "adjective": "moisturising",
+    "count": 2
+  },
+  {
+    "adjective": "common",
+    "count": 2
+  },
+  {
+    "adjective": "live",
+    "count": 2
+  },
+  {
+    "adjective": "flax",
+    "count": 2
+  },
+  {
+    "adjective": "sufficient",
+    "count": 2
+  },
+  {
+    "adjective": "pricey",
+    "count": 2
+  },
+  {
+    "adjective": "confusing",
+    "count": 2
+  },
+  {
+    "adjective": "lazy",
+    "count": 2
+  },
+  {
+    "adjective": "interested",
+    "count": 2
+  },
+  {
+    "adjective": "runny",
+    "count": 2
+  },
+  {
+    "adjective": "irritated",
+    "count": 2
+  },
+  {
+    "adjective": "orange",
+    "count": 2
+  },
+  {
+    "adjective": "authentic",
+    "count": 2
+  },
+  {
+    "adjective": "1c-2a",
+    "count": 1
+  },
+  {
+    "adjective": "pleasant",
+    "count": 1
+  },
+  {
+    "adjective": "fifth",
+    "count": 1
+  },
+  {
+    "adjective": "acv",
+    "count": 1
+  },
+  {
+    "adjective": "excessive",
+    "count": 1
+  },
+  {
+    "adjective": "overbearing",
+    "count": 1
+  },
+  {
+    "adjective": "variant",
+    "count": 1
+  },
+  {
+    "adjective": "lasting",
+    "count": 1
+  },
+  {
+    "adjective": "extend",
+    "count": 1
+  },
+  {
+    "adjective": "present",
+    "count": 1
+  },
+  {
+    "adjective": "relevant",
+    "count": 1
+  },
+  {
+    "adjective": "negative",
+    "count": 1
+  },
+  {
+    "adjective": "large",
+    "count": 1
+  },
+  {
+    "adjective": "crazy",
+    "count": 1
+  },
+  {
+    "adjective": "unlucky",
+    "count": 1
+  },
+  {
+    "adjective": "open",
+    "count": 1
+  },
+  {
+    "adjective": "conditioner(low",
+    "count": 1
+  },
+  {
+    "adjective": "longest",
+    "count": 1
+  },
+  {
+    "adjective": "spantra",
+    "count": 1
+  },
+  {
+    "adjective": "promising",
+    "count": 1
+  },
+  {
+    "adjective": "wooden",
+    "count": 1
+  },
+  {
+    "adjective": "sweaty",
+    "count": 1
+  },
+  {
+    "adjective": "😭",
+    "count": 1
+  },
+  {
+    "adjective": "sleek",
+    "count": 1
+  },
+  {
+    "adjective": "glossy",
+    "count": 1
+  },
+  {
+    "adjective": "ultimate",
+    "count": 1
+  },
+  {
+    "adjective": "lovely",
+    "count": 1
+  },
+  {
+    "adjective": "circular",
+    "count": 1
+  },
+  {
+    "adjective": "continuous",
+    "count": 1
+  },
+  {
+    "adjective": "mere",
+    "count": 1
+  },
+  {
+    "adjective": "quick",
+    "count": 1
+  },
+  {
+    "adjective": "rue",
+    "count": 1
+  },
+  {
+    "adjective": "dull",
+    "count": 1
+  },
+  {
+    "adjective": "gud",
+    "count": 1
+  },
+  {
+    "adjective": "layered",
+    "count": 1
+  },
+  {
+    "adjective": "hydral",
+    "count": 1
+  },
+  {
+    "adjective": "lowest",
+    "count": 1
+  },
+  {
+    "adjective": "harsh",
+    "count": 1
+  },
+  {
+    "adjective": "tugging",
+    "count": 1
+  },
+  {
+    "adjective": "gradual",
+    "count": 1
+  },
+  {
+    "adjective": "hair-250ml",
+    "count": 1
+  },
+  {
+    "adjective": "elegant",
+    "count": 1
+  },
+  {
+    "adjective": "breathable",
+    "count": 1
+  },
+  {
+    "adjective": "ok",
+    "count": 1
+  },
+  {
+    "adjective": "reversible",
+    "count": 1
+  },
+  {
+    "adjective": "secure",
+    "count": 1
+  },
+  {
+    "adjective": "fit",
+    "count": 1
+  },
+  {
+    "adjective": "adjustable",
+    "count": 1
+  },
+  {
+    "adjective": "smart",
+    "count": 1
+  },
+  {
+    "adjective": "reddit&utm\\_medium",
+    "count": 1
+  },
+  {
+    "adjective": "comment&utm\\_campaign",
+    "count": 1
+  },
+  {
+    "adjective": "gross",
+    "count": 1
+  },
+  {
+    "adjective": "flair",
+    "count": 1
+  },
+  {
+    "adjective": "olaplex",
+    "count": 1
+  },
+  {
+    "adjective": "pertinent",
+    "count": 1
+  },
+  {
+    "adjective": "neutral",
+    "count": 1
+  },
+  {
+    "adjective": "pathetic",
+    "count": 1
+  },
+  {
+    "adjective": "moisturised",
+    "count": 1
+  },
+  {
+    "adjective": "likely",
+    "count": 1
+  },
+  {
+    "adjective": "okayish",
+    "count": 1
+  },
+  {
+    "adjective": "inexpensive",
+    "count": 1
+  },
+  {
+    "adjective": "bouncier",
+    "count": 1
+  },
+  {
+    "adjective": "innisfree",
+    "count": 1
+  },
+  {
+    "adjective": "fox",
+    "count": 1
+  },
+  {
+    "adjective": "e'clat",
+    "count": 1
+  },
+  {
+    "adjective": "instree",
+    "count": 1
+  },
+  {
+    "adjective": "unpleasant",
+    "count": 1
+  },
+  {
+    "adjective": "white",
+    "count": 1
+  },
+  {
+    "adjective": "climatic",
+    "count": 1
+  },
+  {
+    "adjective": "doesnot",
+    "count": 1
+  },
+  {
+    "adjective": "bright",
+    "count": 1
+  },
+  {
+    "adjective": "slight",
+    "count": 1
+  },
+  {
+    "adjective": "early",
+    "count": 1
+  },
+  {
+    "adjective": "holy",
+    "count": 1
+  },
+  {
+    "adjective": "dumb",
+    "count": 1
+  },
+  {
+    "adjective": "balea",
+    "count": 1
+  },
+  {
+    "adjective": "bottom",
+    "count": 1
+  },
+  {
+    "adjective": "wide",
+    "count": 1
+  },
+  {
+    "adjective": "european",
+    "count": 1
+  },
+  {
+    "adjective": "american",
+    "count": 1
+  },
+  {
+    "adjective": "turkish",
+    "count": 1
+  },
+  {
+    "adjective": "generic",
+    "count": 1
+  },
+  {
+    "adjective": "bigger",
+    "count": 1
+  },
+  {
+    "adjective": "dupe",
+    "count": 1
+  },
+  {
+    "adjective": "biggest",
+    "count": 1
+  },
+  {
+    "adjective": "atleast",
+    "count": 1
+  },
+  {
+    "adjective": "ofc",
+    "count": 1
+  },
+  {
+    "adjective": "garnier",
+    "count": 1
+  },
+  {
+    "adjective": "fucking",
+    "count": 1
+  },
+  {
+    "adjective": "successful",
+    "count": 1
+  },
+  {
+    "adjective": "scummy",
+    "count": 1
+  },
+  {
+    "adjective": "dominant",
+    "count": 1
+  },
+  {
+    "adjective": "absolute",
+    "count": 1
+  },
+  {
+    "adjective": "/u",
+    "count": 1
+  },
+  {
+    "adjective": "clumsy",
+    "count": 1
+  },
+  {
+    "adjective": "11th",
+    "count": 1
+  },
+  {
+    "adjective": "applicable",
+    "count": 1
+  },
+  {
+    "adjective": "aggressive",
+    "count": 1
+  },
+  {
+    "adjective": "limited",
+    "count": 1
+  },
+  {
+    "adjective": "haircut",
+    "count": 1
+  },
+  {
+    "adjective": "future",
+    "count": 1
+  },
+  {
+    "adjective": "organic",
+    "count": 1
+  },
+  {
+    "adjective": "popular",
+    "count": 1
+  },
+  {
+    "adjective": "larger",
+    "count": 1
+  },
+  {
+    "adjective": "dense",
+    "count": 1
+  },
+  {
+    "adjective": "double",
+    "count": 1
+  },
+  {
+    "adjective": "tough",
+    "count": 1
+  },
+  {
+    "adjective": "brief",
+    "count": 1
+  },
+  {
+    "adjective": "elaborate",
+    "count": 1
+  },
+  {
+    "adjective": "longer",
+    "count": 1
+  },
+  {
+    "adjective": "frizz",
+    "count": 1
+  },
+  {
+    "adjective": "primary",
+    "count": 1
+  },
+  {
+    "adjective": "easier",
+    "count": 1
+  },
+  {
+    "adjective": "strict",
+    "count": 1
+  },
+  {
+    "adjective": "upto",
+    "count": 1
+  },
+  {
+    "adjective": "focused",
+    "count": 1
+  },
+  {
+    "adjective": "shy",
+    "count": 1
+  },
+  {
+    "adjective": "follihair",
+    "count": 1
+  },
+  {
+    "adjective": "scared",
+    "count": 1
+  },
+  {
+    "adjective": "temporary",
+    "count": 1
+  },
+  {
+    "adjective": "covid",
+    "count": 1
+  },
+  {
+    "adjective": "🥹",
+    "count": 1
+  },
+  {
+    "adjective": "squeaky",
+    "count": 1
+  },
+  {
+    "adjective": "unmanageable",
+    "count": 1
+  },
+  {
+    "adjective": "cheapest",
+    "count": 1
+  },
+  {
+    "adjective": "fatty",
+    "count": 1
+  },
+  {
+    "adjective": "bestseller",
+    "count": 1
+  },
+  {
+    "adjective": "closer",
+    "count": 1
+  },
+  {
+    "adjective": "delayed",
+    "count": 1
+  },
+  {
+    "adjective": "lower",
+    "count": 1
+  },
+  {
+    "adjective": "just",
+    "count": 1
+  },
+  {
+    "adjective": "female",
+    "count": 1
+  },
+  {
+    "adjective": "economical",
+    "count": 1
+  },
+  {
+    "adjective": "alternate",
+    "count": 1
+  },
+  {
+    "adjective": "nutritive",
+    "count": 1
+  },
+  {
+    "adjective": "kbuild",
+    "count": 1
+  },
+  {
+    "adjective": "technical",
+    "count": 1
+  },
+  {
+    "adjective": "cool",
+    "count": 1
+  },
+  {
+    "adjective": "laureth",
+    "count": 1
+  },
+  {
+    "adjective": "freeze",
+    "count": 1
+  },
+  {
+    "adjective": "cheapness",
+    "count": 1
+  },
+  {
+    "adjective": "safe",
+    "count": 1
+  },
+  {
+    "adjective": "problematic",
+    "count": 1
+  },
+  {
+    "adjective": "rare",
+    "count": 1
+  },
+  {
+    "adjective": "buildup",
+    "count": 1
+  },
+  {
+    "adjective": "severe",
+    "count": 1
+  },
+  {
+    "adjective": "heavier",
+    "count": 1
+  },
+  {
+    "adjective": "latter",
+    "count": 1
+  },
+  {
+    "adjective": "recent",
+    "count": 1
+  },
+  {
+    "adjective": "very",
+    "count": 1
+  },
+  {
+    "adjective": "sacylic",
+    "count": 1
+  },
+  {
+    "adjective": "preservative",
+    "count": 1
+  },
+  {
+    "adjective": "unclear",
+    "count": 1
+  },
+  {
+    "adjective": "premixed",
+    "count": 1
+  },
+  {
+    "adjective": "nourish",
+    "count": 1
+  },
+  {
+    "adjective": "golden",
+    "count": 1
+  },
+  {
+    "adjective": "voluminous",
+    "count": 1
+  },
+  {
+    "adjective": "2nd",
+    "count": 1
+  },
+  {
+    "adjective": "lucky",
+    "count": 1
+  },
+  {
+    "adjective": "back",
+    "count": 1
+  },
+  {
+    "adjective": "moisturizing",
+    "count": 1
+  },
+  {
+    "adjective": "lo'eal",
+    "count": 1
+  },
+  {
+    "adjective": "unsuitable",
+    "count": 1
+  },
+  {
+    "adjective": "occasional",
+    "count": 1
+  },
+  {
+    "adjective": "rapid",
+    "count": 1
+  },
+  {
+    "adjective": "defabulous",
+    "count": 1
+  },
+  {
+    "adjective": "l'oreal",
+    "count": 1
+  },
+  {
+    "adjective": "untreated",
+    "count": 1
+  },
+  {
+    "adjective": "clearer",
+    "count": 1
+  },
+  {
+    "adjective": "undernourished",
+    "count": 1
+  },
+  {
+    "adjective": "ultra",
+    "count": 1
+  },
+  {
+    "adjective": "skinned",
+    "count": 1
+  },
+  {
+    "adjective": "friggin",
+    "count": 1
+  },
+  {
+    "adjective": "online",
+    "count": 1
+  },
+  {
+    "adjective": "facial",
+    "count": 1
+  },
+  {
+    "adjective": "downward",
+    "count": 1
+  },
+  {
+    "adjective": "soooooo",
+    "count": 1
+  },
+  {
+    "adjective": "random",
+    "count": 1
+  },
+  {
+    "adjective": "hellish",
+    "count": 1
+  },
+  {
+    "adjective": "awkward",
+    "count": 1
+  },
+  {
+    "adjective": "harsher",
+    "count": 1
+  },
+  {
+    "adjective": "upvote",
+    "count": 1
+  },
+  {
+    "adjective": "palmolive",
+    "count": 1
+  },
+  {
+    "adjective": "newer",
+    "count": 1
+  },
+  {
+    "adjective": "legend",
+    "count": 1
+  },
+  {
+    "adjective": "brilliant",
+    "count": 1
+  },
+  {
+    "adjective": "exhaustive",
+    "count": 1
+  },
+  {
+    "adjective": "informative",
+    "count": 1
+  },
+  {
+    "adjective": "unaware",
+    "count": 1
+  },
+  {
+    "adjective": "various",
+    "count": 1
+  },
+  {
+    "adjective": "substantive",
+    "count": 1
+  },
+  {
+    "adjective": "cationic",
+    "count": 1
+  },
+  {
+    "adjective": "commercial",
+    "count": 1
+  },
+  {
+    "adjective": "modern",
+    "count": 1
+  },
+  {
+    "adjective": "equipped",
+    "count": 1
+  },
+  {
+    "adjective": "concerned",
+    "count": 1
+  },
+  {
+    "adjective": "subjective",
+    "count": 1
+  },
+  {
+    "adjective": "generalised",
+    "count": 1
+  },
+  {
+    "adjective": "allergic",
+    "count": 1
+  },
+  {
+    "adjective": "particular",
+    "count": 1
+  },
+  {
+    "adjective": "complicated",
+    "count": 1
+  },
+  {
+    "adjective": "solid",
+    "count": 1
+  },
+  {
+    "adjective": "discernable",
+    "count": 1
+  },
+  {
+    "adjective": "drier",
+    "count": 1
+  },
+  {
+    "adjective": "uneven",
+    "count": 1
+  },
+  {
+    "adjective": "wjtb",
+    "count": 1
+  },
+  {
+    "adjective": "awful",
+    "count": 1
+  },
+  {
+    "adjective": "humongous",
+    "count": 1
+  },
+  {
+    "adjective": "genuine",
+    "count": 1
+  },
+  {
+    "adjective": "top",
+    "count": 1
+  },
+  {
+    "adjective": "sick",
+    "count": 1
+  },
+  {
+    "adjective": "noticeable",
+    "count": 1
+  },
+  {
+    "adjective": "subtle",
+    "count": 1
+  },
+  {
+    "adjective": "post",
+    "count": 1
+  },
+  {
+    "adjective": "pregnancy",
+    "count": 1
+  },
+  {
+    "adjective": "mythic",
+    "count": 1
+  },
+  {
+    "adjective": "jamaican",
+    "count": 1
+  },
+  {
+    "adjective": "tropical",
+    "count": 1
+  },
+  {
+    "adjective": "grateful",
+    "count": 1
+  },
+  {
+    "adjective": "underrated",
+    "count": 1
+  },
+  {
+    "adjective": "flat",
+    "count": 1
+  },
+  {
+    "adjective": "methi",
+    "count": 1
+  },
+  {
+    "adjective": "fast",
+    "count": 1
   }
 ]
