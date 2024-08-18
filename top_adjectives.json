@@ -1,0 +1,802 @@
+[
+  {
+    "adjective": "good",
+    "count": 94
+  },
+  {
+    "adjective": "other",
+    "count": 73
+  },
+  {
+    "adjective": "dry",
+    "count": 59
+  },
+  {
+    "adjective": "same",
+    "count": 50
+  },
+  {
+    "adjective": "free",
+    "count": 49
+  },
+  {
+    "adjective": "more",
+    "count": 32
+  },
+  {
+    "adjective": "better",
+    "count": 28
+  },
+  {
+    "adjective": "personal",
+    "count": 26
+  },
+  {
+    "adjective": "frizzy",
+    "count": 25
+  },
+  {
+    "adjective": "weekly",
+    "count": 25
+  },
+  {
+    "adjective": "human",
+    "count": 25
+  },
+  {
+    "adjective": "appropriate",
+    "count": 24
+  },
+  {
+    "adjective": "oily",
+    "count": 24
+  },
+  {
+    "adjective": "medical",
+    "count": 24
+  },
+  {
+    "adjective": "routine",
+    "count": 23
+  },
+  {
+    "adjective": "kind",
+    "count": 23
+  },
+  {
+    "adjective": "respectful",
+    "count": 23
+  },
+  {
+    "adjective": "clean",
+    "count": 23
+  },
+  {
+    "adjective": "great",
+    "count": 21
+  },
+  {
+    "adjective": "amazing",
+    "count": 21
+  },
+  {
+    "adjective": "bad",
+    "count": 21
+  },
+  {
+    "adjective": "curly",
+    "count": 20
+  },
+  {
+    "adjective": "rx",
+    "count": 18
+  },
+  {
+    "adjective": "loreal",
+    "count": 18
+  },
+  {
+    "adjective": "sure",
+    "count": 17
+  },
+  {
+    "adjective": "many",
+    "count": 17
+  },
+  {
+    "adjective": "much",
+    "count": 17
+  },
+  {
+    "adjective": "best",
+    "count": 16
+  },
+  {
+    "adjective": "new",
+    "count": 16
+  },
+  {
+    "adjective": "little",
+    "count": 16
+  },
+  {
+    "adjective": "most",
+    "count": 16
+  },
+  {
+    "adjective": "available",
+    "count": 16
+  },
+  {
+    "adjective": "mild",
+    "count": 15
+  },
+  {
+    "adjective": "natural",
+    "count": 15
+  },
+  {
+    "adjective": "wavy",
+    "count": 15
+  },
+  {
+    "adjective": "manual",
+    "count": 15
+  },
+  {
+    "adjective": "nice",
+    "count": 14
+  },
+  {
+    "adjective": "soft",
+    "count": 14
+  },
+  {
+    "adjective": "low",
+    "count": 14
+  },
+  {
+    "adjective": "different",
+    "count": 14
+  },
+  {
+    "adjective": "fine",
+    "count": 13
+  },
+  {
+    "adjective": "first",
+    "count": 13
+  },
+  {
+    "adjective": "true",
+    "count": 13
+  },
+  {
+    "adjective": "non",
+    "count": 13
+  },
+  {
+    "adjective": "sulphate",
+    "count": 12
+  },
+  {
+    "adjective": "certain",
+    "count": 12
+  },
+  {
+    "adjective": "similar",
+    "count": 12
+  },
+  {
+    "adjective": "indian",
+    "count": 12
+  },
+  {
+    "adjective": "pantene",
+    "count": 12
+  },
+  {
+    "adjective": "few",
+    "count": 11
+  },
+  {
+    "adjective": "happy",
+    "count": 11
+  },
+  {
+    "adjective": "-",
+    "count": 11
+  },
+  {
+    "adjective": "lively",
+    "count": 11
+  },
+  {
+    "adjective": "healthy",
+    "count": 10
+  },
+  {
+    "adjective": "expensive",
+    "count": 10
+  },
+  {
+    "adjective": "fellow",
+    "count": 10
+  },
+  {
+    "adjective": "full",
+    "count": 10
+  },
+  {
+    "adjective": "heavy",
+    "count": 10
+  },
+  {
+    "adjective": "last",
+    "count": 9
+  },
+  {
+    "adjective": "specific",
+    "count": 9
+  },
+  {
+    "adjective": "normal",
+    "count": 9
+  },
+  {
+    "adjective": "high",
+    "count": 9
+  },
+  {
+    "adjective": "long",
+    "count": 9
+  },
+  {
+    "adjective": "permanent",
+    "count": 9
+  },
+  {
+    "adjective": "considerate",
+    "count": 9
+  },
+  {
+    "adjective": "simple",
+    "count": 9
+  },
+  {
+    "adjective": "whole",
+    "count": 8
+  },
+  {
+    "adjective": "humid",
+    "count": 8
+  },
+  {
+    "adjective": "minimalist",
+    "count": 8
+  },
+  {
+    "adjective": "cheaper",
+    "count": 8
+  },
+  {
+    "adjective": "big",
+    "count": 8
+  },
+  {
+    "adjective": "rosemary",
+    "count": 8
+  },
+  {
+    "adjective": "light",
+    "count": 8
+  },
+  {
+    "adjective": "extraordinary",
+    "count": 7
+  },
+  {
+    "adjective": "old",
+    "count": 7
+  },
+  {
+    "adjective": "strong",
+    "count": 7
+  },
+  {
+    "adjective": "dove",
+    "count": 7
+  },
+  {
+    "adjective": "entire",
+    "count": 7
+  },
+  {
+    "adjective": "right",
+    "count": 7
+  },
+  {
+    "adjective": "cold",
+    "count": 7
+  },
+  {
+    "adjective": "helpful",
+    "count": 7
+  },
+  {
+    "adjective": "main",
+    "count": 7
+  },
+  {
+    "adjective": "remindmebot&subject",
+    "count": 7
+  },
+  {
+    "adjective": "expert",
+    "count": 7
+  },
+  {
+    "adjective": "visual",
+    "count": 7
+  },
+  {
+    "adjective": "anecdotal",
+    "count": 7
+  },
+  {
+    "adjective": "reckless",
+    "count": 7
+  },
+  {
+    "adjective": "poor",
+    "count": 7
+  },
+  {
+    "adjective": "enough",
+    "count": 7
+  },
+  {
+    "adjective": "easy",
+    "count": 7
+  },
+  {
+    "adjective": "gentle",
+    "count": 7
+  },
+  {
+    "adjective": "confused",
+    "count": 7
+  },
+  {
+    "adjective": "only",
+    "count": 6
+  },
+  {
+    "adjective": "sorry",
+    "count": 6
+  },
+  {
+    "adjective": "current",
+    "count": 6
+  },
+  {
+    "adjective": "straight",
+    "count": 6
+  },
+  {
+    "adjective": "thin",
+    "count": 6
+  },
+  {
+    "adjective": "okay",
+    "count": 6
+  },
+  {
+    "adjective": "possible",
+    "count": 6
+  },
+  {
+    "adjective": "damp",
+    "count": 6
+  },
+  {
+    "adjective": "thick",
+    "count": 6
+  },
+  {
+    "adjective": "regular",
+    "count": 6
+  },
+  {
+    "adjective": "deep",
+    "count": 6
+  },
+  {
+    "adjective": "smooth",
+    "count": 6
+  },
+  {
+    "adjective": "black",
+    "count": 6
+  },
+  {
+    "adjective": "ordinary",
+    "count": 6
+  },
+  {
+    "adjective": "affordable",
+    "count": 6
+  },
+  {
+    "adjective": "glad",
+    "count": 6
+  },
+  {
+    "adjective": "blue",
+    "count": 6
+  },
+  {
+    "adjective": "less",
+    "count": 5
+  },
+  {
+    "adjective": "such",
+    "count": 5
+  },
+  {
+    "adjective": "huge",
+    "count": 5
+  },
+  {
+    "adjective": "manageable",
+    "count": 5
+  },
+  {
+    "adjective": "wet",
+    "count": 5
+  },
+  {
+    "adjective": "lavender",
+    "count": 5
+  },
+  {
+    "adjective": "own",
+    "count": 5
+  },
+  {
+    "adjective": "+1",
+    "count": 5
+  },
+  {
+    "adjective": "curl",
+    "count": 5
+  },
+  {
+    "adjective": "proper",
+    "count": 5
+  },
+  {
+    "adjective": "daily",
+    "count": 5
+  },
+  {
+    "adjective": "wrong",
+    "count": 5
+  },
+  {
+    "adjective": "itchy",
+    "count": 5
+  },
+  {
+    "adjective": "️",
+    "count": 5
+  },
+  {
+    "adjective": "fake",
+    "count": 5
+  },
+  {
+    "adjective": "greasy",
+    "count": 4
+  },
+  {
+    "adjective": "super",
+    "count": 4
+  },
+  {
+    "adjective": "worse",
+    "count": 4
+  },
+  {
+    "adjective": "beautiful",
+    "count": 4
+  },
+  {
+    "adjective": "hard",
+    "count": 4
+  },
+  {
+    "adjective": "general",
+    "count": 4
+  },
+  {
+    "adjective": "dandruff",
+    "count": 4
+  },
+  {
+    "adjective": "rough",
+    "count": 4
+  },
+  {
+    "adjective": "least",
+    "count": 4
+  },
+  {
+    "adjective": "pink",
+    "count": 4
+  },
+  {
+    "adjective": "next",
+    "count": 4
+  },
+  {
+    "adjective": "thicker",
+    "count": 4
+  },
+  {
+    "adjective": "extra",
+    "count": 4
+  },
+  {
+    "adjective": "cheap",
+    "count": 4
+  },
+  {
+    "adjective": "cosmetic",
+    "count": 4
+  },
+  {
+    "adjective": "interesting",
+    "count": 4
+  },
+  {
+    "adjective": "anti",
+    "count": 4
+  },
+  {
+    "adjective": "pre",
+    "count": 4
+  },
+  {
+    "adjective": "hot",
+    "count": 4
+  },
+  {
+    "adjective": "essential",
+    "count": 4
+  },
+  {
+    "adjective": "flaky",
+    "count": 4
+  },
+  {
+    "adjective": "lighter",
+    "count": 4
+  },
+  {
+    "adjective": "real",
+    "count": 4
+  },
+  {
+    "adjective": "japanese",
+    "count": 4
+  },
+  {
+    "adjective": "oiled",
+    "count": 4
+  },
+  {
+    "adjective": "short",
+    "count": 3
+  },
+  {
+    "adjective": "exact",
+    "count": 3
+  },
+  {
+    "adjective": "warm",
+    "count": 3
+  },
+  {
+    "adjective": "rose",
+    "count": 3
+  },
+  {
+    "adjective": "herbal",
+    "count": 3
+  },
+  {
+    "adjective": "shiny",
+    "count": 3
+  },
+  {
+    "adjective": "major",
+    "count": 3
+  },
+  {
+    "adjective": "detangling",
+    "count": 3
+  },
+  {
+    "adjective": "weird",
+    "count": 3
+  },
+  {
+    "adjective": "healthier",
+    "count": 3
+  },
+  {
+    "adjective": "curious",
+    "count": 3
+  },
+  {
+    "adjective": "softer",
+    "count": 3
+  },
+  {
+    "adjective": "special",
+    "count": 3
+  },
+  {
+    "adjective": "detailed",
+    "count": 3
+  },
+  {
+    "adjective": "overnight",
+    "count": 3
+  },
+  {
+    "adjective": "medium",
+    "count": 3
+  },
+  {
+    "adjective": "suitable",
+    "count": 3
+  },
+  {
+    "adjective": "*",
+    "count": 3
+  },
+  {
+    "adjective": "sweet",
+    "count": 3
+  },
+  {
+    "adjective": "decent",
+    "count": 3
+  },
+  {
+    "adjective": "spf",
+    "count": 3
+  },
+  {
+    "adjective": "basic",
+    "count": 3
+  },
+  {
+    "adjective": "mixed",
+    "count": 3
+  },
+  {
+    "adjective": "sensitive",
+    "count": 3
+  },
+  {
+    "adjective": "unrelated",
+    "count": 3
+  },
+  {
+    "adjective": "several",
+    "count": 3
+  },
+  {
+    "adjective": "dead",
+    "count": 3
+  },
+  {
+    "adjective": "closest",
+    "count": 3
+  },
+  {
+    "adjective": "prone",
+    "count": 3
+  },
+  {
+    "adjective": "friendly",
+    "count": 3
+  },
+  {
+    "adjective": "pure",
+    "count": 3
+  },
+  {
+    "adjective": "able",
+    "count": 3
+  },
+  {
+    "adjective": "excited",
+    "count": 3
+  },
+  {
+    "adjective": "kinda",
+    "count": 3
+  },
+  {
+    "adjective": "tiny",
+    "count": 3
+  },
+  {
+    "adjective": "terrible",
+    "count": 3
+  },
+  {
+    "adjective": "acne",
+    "count": 3
+  },
+  {
+    "adjective": "bblunt",
+    "count": 3
+  },
+  {
+    "adjective": "ghbc",
+    "count": 3
+  },
+  {
+    "adjective": "wise",
+    "count": 3
+  },
+  {
+    "adjective": "local",
+    "count": 3
+  },
+  {
+    "adjective": "slimy",
+    "count": 3
+  },
+  {
+    "adjective": "resistant",
+    "count": 3
+  },
+  {
+    "adjective": "multiple",
+    "count": 2
+  },
+  {
+    "adjective": "correct",
+    "count": 2
+  },
+  {
+    "adjective": "frequent",
+    "count": 2
+  },
+  {
+    "adjective": "sulfate",
+    "count": 2
+  },
+  {
+    "adjective": "lbp",
+    "count": 2
+  },
+  {
+    "adjective": "second",
+    "count": 2
+  },
+  {
+    "adjective": "yellow",
+    "count": 2
+  },
+  {
+    "adjective": "fair",
+    "count": 2
+  }
+]
